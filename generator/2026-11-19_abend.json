@@ -1,0 +1,55 @@
+{
+ "topic": "Alarmanlage: Funk oder verkabelt?",
+ "scenes": [
+  {
+   "type": "hook",
+   "dur": 3.5,
+   "emoji": "🚨",
+   "kicker": "FÜR HAUSBESITZER",
+   "title": "Alarmanlage: Funk oder Kabel?",
+   "sub": "Welche passt zu Ihrem Haus?"
+  },
+  {
+   "type": "point",
+   "dur": 4.5,
+   "emoji": "🔧",
+   "kicker": "DAS PROBLEM",
+   "title": "Falsch geplant kostet doppelt",
+   "body": "Kabel im Bestand heißt oft Stemmen und Schmutz. Billiger Funk ohne Sabotageschutz lässt sich leichter stören."
+  },
+  {
+   "type": "point",
+   "dur": 4.5,
+   "emoji": "📡",
+   "kicker": "DIE LÖSUNG",
+   "title": "Passend zu Ihrem Haus",
+   "body": "Neubau oder Sanierung: verkabelt und wartungsarm. Im Bestand: zertifizierter Funk mit Störungserkennung."
+  },
+  {
+   "type": "stat",
+   "dur": 6.0,
+   "kicker": "WUSSTEN SIE?",
+   "prefix": "",
+   "value": 82920,
+   "suffix": "",
+   "size": 160,
+   "label": "Wohnungseinbrüche registrierte die Polizei 2025 – 5,7 % mehr als im Vorjahr",
+   "source": "Quelle: Polizeiliche Kriminalstatistik 2025 (BKA)"
+  },
+  {
+   "type": "bullets",
+   "dur": 4.5,
+   "kicker": "UNSER TIPP",
+   "title": "Darauf sollten Sie achten",
+   "items": [
+    "Erst mechanisch sichern",
+    "Zertifizierte Technik",
+    "Sabotageschutz bei Funk",
+    "Beratung vor dem Kauf"
+   ]
+  }
+ ],
+ "style": {
+  "seed": 0
+ }
+}

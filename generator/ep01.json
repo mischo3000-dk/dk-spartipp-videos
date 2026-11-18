@@ -1,0 +1,20 @@
+{
+  "topic": "Präsenzmelder im Gewerbe",
+  "scenes": [
+    {"type": "hook", "dur": 3.5, "emoji": "💡", "kicker": "FÜR FIRMENINHABER",
+     "title": "Brennt bei Ihnen Licht, obwohl niemand da ist?", "sub": "Das kostet jedes Jahr bares Geld."},
+    {"type": "point", "dur": 4.5, "emoji": "🏭", "kicker": "DAS PROBLEM",
+     "title": "Licht läuft den ganzen Tag", "body": "In Lager, Fluren und Sanitärräumen brennt das Licht oft stundenlang – ganz ohne Nutzen."},
+    {"type": "point", "dur": 4.5, "emoji": "🚶", "kicker": "DIE LÖSUNG",
+     "title": "Präsenzmelder", "body": "Erkennt, ob jemand im Raum ist, und schaltet automatisch – auf Wunsch auch nach Tageslicht."},
+    {"type": "calc", "dur": 8.0, "kicker": "DIE RECHNUNG", "title": "Lager mit 20 LED-Leuchten",
+     "rows": [
+       {"label": "OHNE MELDER", "desc": "20 × 60 W · 12 h/Tag · 250 Tage", "value": "4.320 kWh", "eur": 1080},
+       {"label": "MIT PRÄSENZMELDER", "desc": "30 % weniger Brenndauer", "value": "3.024 kWh", "eur": 756}
+     ],
+     "save": 324, "save_sub": "pro Jahr · nur durch Automatik",
+     "foot": "Beispielrechnung · 25 ct/kWh Gewerbestrom · Einsparung je nach Nutzung 25–80 %"},
+    {"type": "bullets", "dur": 4.5, "kicker": "UNSER TIPP", "title": "Hier lohnt es sich besonders",
+     "items": ["Lager & Hallen", "Flure & Treppenhäuser", "Sanitärräume", "Besprechungsräume"]}
+  ]
+}

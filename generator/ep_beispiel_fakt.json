@@ -1,0 +1,51 @@
+{
+ "topic": "KNX Smart Home",
+ "scenes": [
+  {
+   "type": "hook",
+   "dur": 3.5,
+   "emoji": "🏠",
+   "kicker": "FÜR HAUSBESITZER",
+   "title": "Ihr Haus denkt mit?",
+   "sub": "Licht, Rollläden, Heizung – alles aus einer Hand."
+  },
+  {
+   "type": "point",
+   "dur": 4.5,
+   "emoji": "📱",
+   "kicker": "DAS PROBLEM",
+   "title": "Fünf Apps, nichts passt",
+   "body": "Billige Insellösungen reden nicht miteinander – und nach ein paar Jahren gibt es keine Updates mehr."
+  },
+  {
+   "type": "point",
+   "dur": 4.5,
+   "emoji": "🎛️",
+   "kicker": "DIE LÖSUNG",
+   "title": "KNX – der offene Standard",
+   "body": "Herstellerunabhängig und seit Jahrzehnten bewährt. Im Neubau verkabelt, im Bestand per Funk nachrüstbar."
+  },
+  {
+   "type": "stat",
+   "dur": 6.0,
+   "kicker": "WUSSTEN SIE?",
+   "prefix": "Ø ",
+   "value": 20,
+   "suffix": " %",
+   "label": "weniger Heizenergie in untersuchten Wohngebäuden mit Gebäudeautomation",
+   "source": "Quelle: BauNetz Wissen, Energieeinsparung durch Gebäudeautomation"
+  },
+  {
+   "type": "bullets",
+   "dur": 4.5,
+   "kicker": "UNSER TIPP",
+   "title": "Das kann KNX bei Ihnen",
+   "items": [
+    "Heizung Raum für Raum",
+    "Rollläden nach Sonne",
+    "Alles aus beim Gehen",
+    "Anwesenheit simulieren"
+   ]
+  }
+ ]
+}
