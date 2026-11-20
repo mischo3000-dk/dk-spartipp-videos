@@ -1,0 +1,57 @@
+{
+ "topic": "Lastmanagement: Lastspitzen und Leistungspreis senken",
+ "scenes": [
+  {
+   "type": "hook",
+   "dur": 3.5,
+   "emoji": "⚡",
+   "kicker": "FÜR FIRMENINHABER",
+   "title": "Eine Viertelstunde, die ein Jahr kostet?",
+   "sub": "Lastspitzen treiben Ihre Stromrechnung."
+  },
+  {
+   "type": "point",
+   "dur": 4.5,
+   "emoji": "📈",
+   "kicker": "DAS PROBLEM",
+   "title": "Alles läuft gleichzeitig an",
+   "body": "Bei Leistungsmessung zählt Ihre höchste Viertelstunde im Jahr – und wird als Leistungspreis für das ganze Jahr berechnet."
+  },
+  {
+   "type": "point",
+   "dur": 4.5,
+   "emoji": "🎚️",
+   "kicker": "DIE LÖSUNG",
+   "title": "Lastmanagement",
+   "body": "Eine Steuerung verteilt große Verbraucher automatisch: Maschinen, Ladepunkte, Heizung und Kälte laufen versetzt statt gleichzeitig."
+  },
+  {
+   "type": "calc",
+   "dur": 8.0,
+   "kicker": "DIE RECHNUNG",
+   "title": "Betrieb mit 150 kW Spitze",
+   "rows": [
+    {"label": "OHNE LASTMANAGEMENT", "desc": "150 kW × 130 €/kW Leistungspreis", "value": "150 kW", "eur": 19500},
+    {"label": "MIT LASTMANAGEMENT", "desc": "Spitze um 20 % gekappt", "value": "120 kW", "eur": 15600}
+   ],
+   "save": 3900,
+   "save_sub": "pro Jahr · nur beim Leistungspreis",
+   "foot": "Beispielrechnung · Annahmen: Leistungsmessung (RLM), 130 €/kW·Jahr netto, je nach Netzbetreiber verschieden"
+  },
+  {
+   "type": "bullets",
+   "dur": 4.5,
+   "kicker": "UNSER TIPP",
+   "title": "So starten Sie",
+   "items": [
+    "Lastgang auswerten",
+    "Große Verbraucher finden",
+    "Abschaltbares festlegen",
+    "Steuerung nachrüsten"
+   ]
+  }
+ ],
+ "style": {
+  "seed": 1
+ }
+}
